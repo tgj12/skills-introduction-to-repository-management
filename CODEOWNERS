@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @tgj12
+/src/backend/database.py      @tgj12
+/src/backend/routers/auth.py  @tgj12
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @tgj12
